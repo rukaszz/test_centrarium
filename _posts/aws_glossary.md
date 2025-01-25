@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Dummy Post"
+date:   2015-04-18T14:25:52-05:00
+author: Ben Centra
+categories: Dummy
+---
+
+
 # AWS CFL 用語集(1, 2で統合)
 
 ## 用語集
